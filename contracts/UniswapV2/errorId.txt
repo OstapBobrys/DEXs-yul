@@ -1,0 +1,7 @@
+0x01 - onlyOwner
+0x02 - token0()
+0x03 - token1()
+0x04 - getReserves()
+0x05 - transfer()
+0x06 - swap()
+0x07 - balanceOf()
